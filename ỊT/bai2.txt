@@ -1,0 +1,8 @@
+Dự án
+Mô tả ngắn
+A: Waterfall
+Phần mềm quản lý điểm cho trường cấp 2, yêu cầu rõ ràng
+B: Agile
+Ứng dụng mobile đặt lịch khám bệnh, yêu cầu linh hoạt
+C: Spiral
+Hệ thống ngân hàng điện tử có bảo mật và độ phức tạp cao

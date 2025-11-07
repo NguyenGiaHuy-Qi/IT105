@@ -1,0 +1,12 @@
+b5
+Lập bảng so sánh giữa 4 kỹ thuật: Phỏng vấn, Quan sát, Khảo sát, Tài liệu
+Ưu điểm
+Hạn chế
+Khi nào nên dùng
+Tình huống ví dụ.
+
+Kỹ thuật    Ưu điểm	                                                Hạn chế	                                                        Khi nên dùng	                                    Ví dụ
+Phỏng vấn	Hiểu sâu, linh hoạt, làm rõ yêu cầu 	                Tốn thời gian, phụ thuộc người hỏi/trả lời                      Khi cần hiểu chi tiết nhu cầu người dùng	        Phỏng vấn giảng viên về cách quản lý khóa học
+Quan sát	Thấy quy trình thực tế, phát hiện vấn đề ẩn 	        Mất thời gian, ảnh hưởng hành vi người được quan sát    	    Khi muốn hiểu cách làm việc thực tế	                Quan sát nhân viên nhập điểm trên hệ thống cũ
+Khảo sát	Nhanh, thu thập ý kiến số đông, dễ thống kê	            Thông tin nông, dễ hiểu sai câu hỏ  i	                        Khi cần ý kiến từ nhiều người	                    Gửi form khảo sát mức độ hài lòng học viên
+Tài liệu	Khách quan, tiết kiệm thời gian,        	            Có thể lỗi thời, thiếu nhu cầu mới	                            Khi đã có quy trình hoặc hệ thống hiện hành     	Xem quy định học vụ để xác định yêu cầu bắt buộc

@@ -1,0 +1,11 @@
+Chọn một phần mềm bạn từng dùng (ví dụ: hệ thống đặt vé, app ngân hàng).
+
+App ngân hàng:
+* Chức năng:
+    - Gửi tiền
+    - Rút tiền
+    - Chuyển tiền
+* Phi chức năng
+    - Giao diện/ dữ liệu người dùng phải load <3s
+    - Thời gian chuyển tiền phải < 3s
+    - bảo mật giao dịch người dùng

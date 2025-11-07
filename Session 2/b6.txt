@@ -1,0 +1,14 @@
+b6
+Giả sử bạn được giao phát triển hệ thống quản lý bệnh viện:
+
+Liệt kê các yếu tố môi trường ảnh hưởng đến hệ thống.
+Giải thích cách từng yếu tố tác động đến yêu cầu kỹ thuật.
+
+
+
+
+Pháp lý & bảo mật y tế: Cần mã hóa, phân quyền, lưu vết truy cập
+Hạ tầng mạng & thiết bị: Phải đảm bảo hiệu năng, có chế độ offline
+Người dùng đa dạng: Giao diện thân thiện, phân quyền rõ
+Quy trình bệnh viện: Hệ thống linh hoạt, phù hợp thực tế
+Tích hợp hệ thống khác: Cần API, chuẩn trao đổi dữ liệu

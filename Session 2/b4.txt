@@ -1,0 +1,11 @@
+Viết phần mô tả cấu trúc tài liệu SRS cho một hệ thống học trực tuyến.
+Mỗi mục cần ghi tên và giải thích ngắn (1–2 câu) vai trò của phần đó.
+
+- Giới thiệu: Phạm vi hệ thống, mục đích
+- Mô tả tổng quát: chức năng tổng quan, đặc điểm người dùng, giới hạn, phụ thuộc
+- Yêu cầu chức năng: mô tả chi tiết từng chức năng
+- Yêu cầu phi chức năng: Hiệu năng, bảo mật, khả dụng, thân thiện
+- Giao diện hệ thống
+- Ràng buộc hệ thống
+- Mô hình và sơ đồ
+- Phụ lục

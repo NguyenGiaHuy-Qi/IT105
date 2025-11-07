@@ -1,0 +1,9 @@
+Chọn một hệ thống quản lý bất kỳ (ví dụ: hệ thống thư viện, học trực tuyến, bán lẻ).
+Lập bảng phân loại Stakeholders theo 5 vai trò: người dùng cuối, sponsor, chuyên gia nghiệp vụ, bộ phận kỹ thuật, bên thứ ba.
+
+Hệ thống thư viện:
+Người dùng cuối: người thuê sách, thủ thư
+sponsor: trường học, chính phủ
+chuyên gia nghiệp vụ: quản lý thư viện, chăm sóc khách hàng
+bộ phận kỹ thuật: lập trình viên
+bên thứ 3: các nhãn hàng quảng cáo, các thanh toán

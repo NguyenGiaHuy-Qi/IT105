@@ -1,0 +1,9 @@
+Chọn một hệ thống phần mềm mà bạn sử dụng thường xuyên (ví dụ: Shopee, Grab, ngân hàng điện tử).
+Liệt kê các yếu tố thuộc môi trường hệ thống (người dùng, phần cứng, phần mềm, hệ thống bên ngoài, quy trình nghiệp vụ, luật lệ).
+
+Shopee:
+    - Người dùng: người mua hàng, bán hàng, chăm sóc khách hàng
+    - Phần cứng: Server lưu trữ dữ liệu người dùng
+    - Phần mềm: Web, Android, IOS
+    - quy trình nghiệp vụ: đăng ký bán hàng, đăng ký aff, đặt hàng, thanh toán
+    - luật lệ: luật bán hàng, luật thuế

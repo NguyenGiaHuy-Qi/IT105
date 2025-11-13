@@ -1,0 +1,1 @@
+![Ex2](/Session07/assets/Ex2-SS7.jpg)
